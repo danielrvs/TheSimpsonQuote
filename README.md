@@ -1,0 +1,2 @@
+# TheSimpsonQuote
+exercise for interns 
