@@ -1,3 +1,3 @@
 # TheSimpsonQuote
-exercise for interns with vainilla JS
-we will practice fetch api and dom manipulation
+Exercise for interns with vainilla JS.
+We will practice fetch api and dom manipulation.
